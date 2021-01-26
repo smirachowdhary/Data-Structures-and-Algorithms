@@ -9,8 +9,8 @@
 # 3.	Given the number of days => convert it to hours, minutes and seconds, weeks.
 # 4.	Give the dollar amount => tell me how many pennies, nickels, dimes, quarters, half dollars you need.
 # For 1.41 dollars:
-# I need 2 half dollars , 1 quarter, 1 dime, 1 nickel and 1 penny.
-# Also 141 pennies = 70 nickels + 1 cent = 14 dimes + 1cent = 5 quarters + 16 cents = 2 half dollars + 41 cents.
+# 1.41 Dollars =  2 *.50 + 1 *.25 +  1 * .10 + 1 * .05 + 1 * .01
+# Also 141 pennies = 28 nickels + 1 cent = 14 dimes + 1cent = 5 quarters + 16 cents = 2 half dollars + 41 cents.
 # 5.	Given the mass in lbs => convert to ounces, g and kg
 # 6.	Given the volume in quarts => convert to cups, pints, gallons, ml, l
 # 7.	Given the temperature in Fahrenheit convert to Celsius c and Kelvin

@@ -1,6 +1,6 @@
 first_name = input("What is your first name?")
 last_name = input("What is your last name?")
-age_in_years = float(input("What is your age in years?"))
+age_in_years = int(input("What is your age in years?"))
 height_in_feet = float(input("How tall are you (in feet)?"))
 weight_in_pounds = float(input("How much do you weigh (in pounds)?"))
 
