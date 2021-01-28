@@ -14,3 +14,8 @@
 # 5.	Given the mass in lbs => convert to ounces, g and kg
 # 6.	Given the volume in quarts => convert to cups, pints, gallons, ml, l
 # 7.	Given the temperature in Fahrenheit convert to Celsius c and Kelvin
+# 8.Update Question 1 such that Name is displayed in uppercase
+# 9.Calculate the perimeter and area of the rectangle given length and width
+# 10.Calculate the perimeter and area of square given length
+# 11.Calculate the perimeter and area of circle given radius
+# 12.Given a wall with length l1 and width w1 that has a widow of dimension length l2 and width w2 and cost per gallon is $20 and each gallon paints 3 meter square. Generate a receipt how much the customer should pay for the paint.
