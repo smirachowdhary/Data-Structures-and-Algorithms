@@ -19,3 +19,6 @@
  10.Calculate the perimeter and area of square given length
  11.Calculate the perimeter and area of circle given radius
 12.Given a wall with length l1 and width w1 that has a widow of dimension length l2 and width w2 and cost per gallon is $20 and each gallon paints 3 meter square. Generate a receipt how much the customer should pay for the paint.
+13. Verify product of 2 random numbers(answer given by user)is correct. If not, give 1 more chance.
+14. given date verifiy if it fall in leap year.
+15. 
