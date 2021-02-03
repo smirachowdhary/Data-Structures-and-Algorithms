@@ -4,8 +4,8 @@ diameter = 2 * radius
 circumference = 3.14 * diameter
 
 print(f"""
-Radius: {}
-Area: {}
-Diameter: {}
-Circumstance (preimeter of circle): {}
+Radius: {radius}
+Area: {area}
+Diameter: {diameter}
+Circumstance (preimeter of circle): {circumference}
 """)
