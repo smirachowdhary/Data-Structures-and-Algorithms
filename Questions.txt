@@ -1,0 +1,27 @@
+ Coding Exercises:
+ 1.	Ask the user for first name(Ada), second name (Lovelace), age in years (10), height (5.5) in feet and weight(152) in lbs. Print the output as follows:
+ Good day Ada Lovelace !!
+ You have lived at least 120 months or 520 weeks or 3650 days.
+ Your height is 5.5 feet or 66 inch or 167.64 cms.
+ Your weight is 152 lbs or 68.95 kg.
+ Nice to meet you. Bye.
+ 2.	Given the length in miles => convert it to inch, feet, yard, km, m, cm
+ 3.	Given the number of days => convert it to hours, minutes and seconds, weeks.
+ 4.	Give the dollar amount => tell me how many pennies, nickels, dimes, quarters, half dollars you need.
+ For 1.41 dollars:
+ I need 2 half dollars , 1 quarter, 1 dime, 1 nickel and 1 penny.
+ Also 141 pennies = 28 nickels + 1 cent = 14 dimes + 1cent = 5 quarters + 16 cents = 2 half dollars + 41 cents.
+ 5.	Given the mass in lbs => convert to ounces, g and kg
+ 6.	Given the volume in quarts => convert to cups, pints, gallons, ml, l
+ 7.	Given the temperature in Fahrenheit convert to Celsius c and Kelvin
+ 8.Update Question 1 such that Name is displayed in uppercase
+ 9.Calculate the perimeter and area of the rectangle given length and width
+ 10.Calculate the perimeter and area of square given length
+ 11.Calculate the perimeter and area of circle given radius
+12.Given a wall with length l1 and width w1 that has a widow of dimension length l2 and width w2 and cost per gallon is $20 and each gallon paints 3 meter square. Generate a receipt how much the customer should pay for the paint.
+13. Verify product of 2 random numbers(answer given by user)is correct. If not, give 1 more chance.
+14. given date verifiy if it fall in leap year.
+15. given birthday, tell user how many years plus days they lived.
+16. Print a/b , swap value of a and b and print a/b
+17. Given a date, print which day it is and whether it is a weekday or not
+18. Extend Q 13 to give user 20 questions and keep a score. Give user one retry on failure.
