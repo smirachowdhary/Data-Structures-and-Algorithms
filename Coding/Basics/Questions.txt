@@ -4,7 +4,7 @@
  You have lived at least 120 months or 520 weeks or 3650 days.
  Your height is 5.5 feet or 66 inch or 167.64 cms.
  Your weight is 152 lbs or 68.95 kg.
- Nice to meet you. Bye
+ Nice to meet you. Bye.
  2.	Given the length in miles => convert it to inch, feet, yard, km, m, cm
  3.	Given the number of days => convert it to hours, minutes and seconds, weeks.
  4.	Give the dollar amount => tell me how many pennies, nickels, dimes, quarters, half dollars you need.
@@ -22,3 +22,5 @@
 13. Verify product of 2 random numbers(answer given by user)is correct. If not, give 1 more chance.
 14. given date verifiy if it fall in leap year.
 15. given birthday, tell user how many years plus days they lived.
+16. Print a/b , swap value of a and b and print a/b
+17. Given a date, print which day it is and whether it is a weekday or not
