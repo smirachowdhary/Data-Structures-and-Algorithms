@@ -24,3 +24,4 @@
 15. given birthday, tell user how many years plus days they lived.
 16. Print a/b , swap value of a and b and print a/b
 17. Given a date, print which day it is and whether it is a weekday or not
+18. Extend Q 13 to give user 20 questions and keep a score. Give user one retry on failure.
