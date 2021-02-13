@@ -1,5 +1,5 @@
 radius = float(input("Enter raduis of circle:"))
-area = radius * 2 * 3.14
+area =  3.14 * (radius ** 2)
 diameter = 2 * radius
 circumference = 3.14 * diameter
 
@@ -7,5 +7,5 @@ print(f"""
 Radius: {radius}
 Area: {area}
 Diameter: {diameter}
-Circumstance (preimeter of circle): {circumference}
+Circumference: (preimeter of circle): {circumference}
 """)
