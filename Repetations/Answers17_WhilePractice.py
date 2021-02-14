@@ -13,15 +13,15 @@ while i < n:
 print("\n")
 # Printing n-1 to 0
 i = n-1
-while i < n:
+while i >= 0:
     print(i, end=" ")
     i-=1
 print("\n")
 # Printing n to 1
-i = 0
-while i < n:
-    print(n-i, end=" ")
-    i+=1
+i = n
+while i > 0:
+    print(i, end=" ")
+    i-=1
 print("\n")
 # Printing n odd numbers, starting from 1
 i = 0

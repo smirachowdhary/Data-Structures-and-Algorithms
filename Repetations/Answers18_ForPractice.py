@@ -8,12 +8,12 @@ for i in range(n):
     print(i, end=" ")
 print("\n")
 # Printing n-1 to 0
-for i in range(n):
-    print(n-(i+1), end=" ")
+for i in range(n-1,-1,-1):
+    print(i, end=" ")
 print("\n")
 # Printing n to 1
-for i in range(n):
-    print(n-i, end=" ")
+for i in range(n,0,-1):
+    print(i, end=" ")
 print("\n")
 # Printing n odd numbers, starting from 1
 for i in range(n):
