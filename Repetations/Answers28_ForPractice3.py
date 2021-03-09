@@ -1,5 +1,5 @@
 n = int(input("Enter number:"))
-print(f"The prime numbers in {n} is:")
+print(f"The prime numbers till {n} are:")
 
 for i in range(2,n):
     end=i//2
