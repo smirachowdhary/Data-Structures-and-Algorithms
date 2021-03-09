@@ -1,31 +1,17 @@
-is_or_is_not_prime = []
-
 def is_prime(n):
-    i=2
-    while i < n:
-        end = i//2
-        j=2
-        while j <= end:
-            if i % j == 0:
-                break
-            j+=1
-        else:
-            is_or_is_not_prime.append(i)
-        i+=1
-
-is_prime(8)
-print(is_or_is_not_prime)
-
-is_or_is_not_prime_2 = []
-
-def is_prime_2(n):
     for i in range(2,n):
-        end=i//2
-        for j in range(2, end+1):
-            if i%j == 0:
-                break
-        else:
-            is_or_is_not_prime_2.append(i)
+        if(n % i == 0):
+            return False
+    return True
 
-print(is_prime_2(8))
-print(is_or_is_not_prime_2)
+def get_prime_list(n):
+    list_of_primes = []
+    for i in range(1,n+1):
+        if is_prime(i):
+            list_of_primes.append(i)
+    return list_of_primes
+
+
+print(is_prime(23))
+print(is_prime(22))
+print(get_prime_list(23))
