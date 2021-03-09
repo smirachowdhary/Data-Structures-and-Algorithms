@@ -1,5 +1,5 @@
 n = int(input("Enter number:"))
-print(f"The prime numbers in {n} is:")
+print(f"The prime numbers till {n} are:")
 
 i=2
 while i < n:
