@@ -10,8 +10,3 @@ def get_prime_list(n):
         if is_prime(i):
             list_of_primes.append(i)
     return list_of_primes
-
-
-print(is_prime(23))
-print(is_prime(22))
-print(get_prime_list(23))
