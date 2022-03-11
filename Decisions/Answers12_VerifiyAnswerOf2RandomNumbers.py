@@ -4,7 +4,7 @@ wrong = 0
 right = 0
 
 i = 0
-while i < 20:
+while i < 5:
     random_number1 = random.randint(1,12)
     random_number2 = random.randint(1,1000)
     print(f"{random_number1} * {random_number2}")
@@ -22,4 +22,4 @@ while i < 20:
             print(f"Sorry, you are wrong. The real answer is {random_number1 * random_number2}.")
             wrong+=1
     i+=1
-print(f"Out of 20 questions, you got {wrong} wrong and {right} right.")
+print(f"Out of 5 questions, you got {wrong} wrong and {right} right.")
