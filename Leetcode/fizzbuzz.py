@@ -15,6 +15,9 @@ def fizzBuzz(n):
             fizzbuzz.append(f"{i+1}")
         i+=1
     return fizzbuzz
+    
+    #Space complexity = O(n)
+    #Time complexity = O(n)
 
 testcase = fizzBuzz(15)
 print(testcase)
