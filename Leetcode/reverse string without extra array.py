@@ -9,15 +9,11 @@ def reverseString(s):
     
     i=0
     while i < x:
-        n = s[1+i]
-        s[1+i] = s[-1-i]
+        n = s[i]
+        s[i] = s[-1-i]
         s[-1-i] = n
         i+=1
     
-    n = s[0]
-    s.pop(0)
-    s.extend(n)
-
     return s
 
 testcase = reverseString(["h","e","l","l","o"])
